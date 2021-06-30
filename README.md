@@ -44,3 +44,4 @@
 | Falco               | https://falco.org/                               | Security                  | Threat detection engine                                  |
 | Kube-bench          | https://github.com/aquasecurity/kube-bench       | Security                  | Run checks documented in the CIS Kubernetes Benchmark    |
 | Trivy               | https://github.com/aquasecurity/trivy            | Security                  | Vulnerability Scanner for Containers and other Artifacts |
+| Kyverno             | https://github.com/kyverno/kyverno/              | Security                  | Policy engine                                            |
