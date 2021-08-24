@@ -25,6 +25,7 @@
 | Kubenav             | https://kubenav.io/                              | Dashboards / Clients      |                                                          |
 | Octant              | https://octant.dev/                              | Dashboards / Clients      |                                                          |
 | Havener             | https://github.com/homeport/havener              | Dashboards / Clients      |                                                          |
+| Telepresence        | https://github.com/telepresenceio/telepresence   | Dashboards / Clients      |                                                          |
 | Cortex              | https://github.com/cortexproject/cortex          | Storage                   | Storage for Prometheus                                   |
 | Telepresence        | https://www.telepresence.io/                     | End-users tools           | Local Development                                        |
 | Kubeapps            | https://kubeapps.com/                            | Applications catalog      |                                                          |
@@ -51,3 +52,6 @@
 | Kyverno             | https://github.com/kyverno/kyverno/              | Security                  | Policy engine                                            |
 | Kubescape           | https://github.com/armosec/kubescape             | Security                  | Based on [k8s Hardening Guidance by to NSA and CISA](https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/) |
 | Kubestriker         | https://github.com/vchinnipilli/kubestriker      | Security                  | Cluster misconfiguration issues                          |
+| Submariner          | https://submariner.io/                           | Network                   | L3 with VPN tunnels (“east-west” traffic)                |
+| Istio               | https://istio.io/latest/about/service-mesh/      | Service Mesh              | L7 observability, routing, resilience (“east-west” traffic) |
+
