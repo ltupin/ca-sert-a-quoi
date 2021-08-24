@@ -24,6 +24,7 @@
 | Lens                | https://k8slens.dev/                             | Dashboards / Clients      |                                                          |
 | Kubenav             | https://kubenav.io/                              | Dashboards / Clients      |                                                          |
 | Octant              | https://octant.dev/                              | Dashboards / Clients      |                                                          |
+| Havener             | https://github.com/homeport/havener              | Dashboards / Clients      |                                                          |
 | Cortex              | https://github.com/cortexproject/cortex          | Storage                   | Storage for Prometheus                                   |
 | Telepresence        | https://www.telepresence.io/                     | End-users tools           | Local Development                                        |
 | Kubeapps            | https://kubeapps.com/                            | Applications catalog      |                                                          |
