@@ -8,8 +8,10 @@
 | Keda                | https://keda.sh/                                 | Event Driven              | Event Driven Autoscaling                                 |
 | Brigade             | https://brigade.sh/                              | Event Driven              |                                                          |
 | Tremor              | https://www.tremor.rs/                           | Event Driven              |                                                          |
-| Prefect             | https://github.com/prefecthq/prefect             | Worflow Management System |                                                          |
+| Prefect             | https://github.com/prefecthq/prefect             | Worflow Management System | GitOps                                                   |
 | Argo                | https://argoproj.github.io/                      | Worflow Management System |                                                          |
+| Ketch               | https://www.theketch.io/                         | Application Delivery      |                                                          |
+| Kubevela            | https://kubevela.io/                             | Application Delivery      | Open Application Model                                   |
 | Artifact Hub        | https://artifacthub.io/                          | Repository                | Kubernetes Packages (helm)                               |
 | Skooner             | https://skooner.io/                              | Dashboards                | (previously k8dash)                                      |
 | Chaos Engineering   | https://chaos-mesh.org/                          | Chaos Engineering         |                                                          |
@@ -40,8 +42,10 @@
 | Vitess              | https://vitess.io/                               | Databases                 | Clustering system for horizontal scaling of MySQL        |
 | Tikv                | https://tikv.org/                                | Databases                 | A distributed transactional key-value database           |
 | Thanos              | https://thanos.io/                               | Monitoring                | HA Prometheus setup                                      |
+| K8s-vault-network   | https://ot-container-kit.github.io/k8s-vault-webhook/ | Secret Manager       | Multi-targets secret management                          |
 | Open Policy Agent   | https://www.openpolicyagent.org/                 | Security                  | Manage detailed RBAC                                     |
 | Falco               | https://falco.org/                               | Security                  | Threat detection engine                                  |
 | Kube-bench          | https://github.com/aquasecurity/kube-bench       | Security                  | Run checks documented in the CIS Kubernetes Benchmark    |
 | Trivy               | https://github.com/aquasecurity/trivy            | Security                  | Vulnerability Scanner for Containers and other Artifacts |
 | Kyverno             | https://github.com/kyverno/kyverno/              | Security                  | Policy engine                                            |
+| Kubescape           | https://github.com/armosec/kubescape             | Security                  | Based on [k8s Hardening Guidance by to NSA and CISA](https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/) |
