@@ -50,3 +50,4 @@
 | Trivy               | https://github.com/aquasecurity/trivy            | Security                  | Vulnerability Scanner for Containers and other Artifacts |
 | Kyverno             | https://github.com/kyverno/kyverno/              | Security                  | Policy engine                                            |
 | Kubescape           | https://github.com/armosec/kubescape             | Security                  | Based on [k8s Hardening Guidance by to NSA and CISA](https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/) |
+| Kubestriker         | https://github.com/vchinnipilli/kubestriker      | Security                  | Cluster misconfiguration issues                          |
